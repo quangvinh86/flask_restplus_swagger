@@ -144,3 +144,17 @@ class BookApi(Resource):
 
 ```
 
+Start debug application:
+
+![query_1.png](topic_images/query_1.png)
+
+![query_2.png](topic_images/query_2.png)
+
+![query_3.png](topic_images/query_3.png)
+
+![query_4.png](topic_images/query_4.png)
+
+![query_5.png](topic_images/query_5.png)
+
+## Models parameter
+In-comming
